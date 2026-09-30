@@ -1,0 +1,178 @@
+{
+    "1.jpg": {
+        "im width": 2048,
+        "im height": 1251,
+        "bbox left": 706,
+        "bbox top": 513,
+        "bbox width": 37,
+        "bbox height": 50
+    },
+    "2.jpg": {
+        "im width": 1286,
+        "im height": 946,
+        "bbox left": 81,
+        "bbox top": 521,
+        "bbox width": 47,
+        "bbox height": 34
+    },
+    "3.jpg": {
+        "im width": 2048,
+        "im height": 1346,
+        "bbox left": 1388,
+        "bbox top": 463,
+        "bbox width": 35,
+        "bbox height": 37
+    },
+    "5.jpg": {
+        "im width": 2800,
+        "im height": 1760,
+        "bbox left": 1582,
+        "bbox top": 594,
+        "bbox width": 32,
+        "bbox height": 39
+    },
+    "6.jpg": {
+        "im width": 2048,
+        "im height": 1454,
+        "bbox left": 1714,
+        "bbox top": 408,
+        "bbox width": 42,
+        "bbox height": 44
+    },
+    "7.jpg": {
+        "im width": 1949,
+        "im height": 1419,
+        "bbox left": 816,
+        "bbox top": 950,
+        "bbox width": 37,
+        "bbox height": 50
+    },
+    "8.jpg": {
+        "im width": 2800,
+        "im height": 1760,
+        "bbox left": 1156,
+        "bbox top": 292,
+        "bbox width": 35,
+        "bbox height": 30
+    },
+    "9.jpg": {
+        "im width": 1280,
+        "im height": 951,
+        "bbox left": 230,
+        "bbox top": 735,
+        "bbox width": 33,
+        "bbox height": 35
+    },
+    "14.jpg": {
+        "im width": 1700,
+        "im height": 2340,
+        "bbox left": 197,
+        "bbox top": 1878,
+        "bbox width": 40,
+        "bbox height": 41
+    },
+    "waldo1.jpg": {
+        "im width": 3591,
+        "im height": 2244,
+        "bbox left": 205,
+        "bbox top": 1897,
+        "bbox width": 42,
+        "bbox height": 51
+    },
+    "waldo3.jpg": {
+        "im width": 3547,
+        "im height": 2224,
+        "bbox left": 1854,
+        "bbox top": 1762,
+        "bbox width": 31,
+        "bbox height": 38
+    },
+    "waldo5.jpg": {
+        "im width": 3505,
+        "im height": 2226,
+        "bbox left": 2533,
+        "bbox top": 1310,
+        "bbox width": 35,
+        "bbox height": 44
+    },
+    "waldo6.jpg": {
+        "im width": 3540,
+        "im height": 2254,
+        "bbox left": 841,
+        "bbox top": 1526,
+        "bbox width": 37,
+        "bbox height": 50
+    },
+    "waldo15.jpg": {
+        "im width": 2048,
+        "im height": 1282,
+        "bbox left": 986,
+        "bbox top": 1126,
+        "bbox width": 50,
+        "bbox height": 50
+    },
+    "waldo16.jpg": {
+        "im width": 1988,
+        "im height": 1226,
+        "bbox left": 1574,
+        "bbox top": 94,
+        "bbox width": 39,
+        "bbox height": 44
+    },
+    "waldo18.jpg": {
+        "im width": 2048,
+        "im height": 1523,
+        "bbox left": 1510,
+        "bbox top": 328,
+        "bbox width": 30,
+        "bbox height": 37
+    },
+    "waldo19.jpg": {
+        "im width": 2048,
+        "im height": 1417,
+        "bbox left": 1862,
+        "bbox top": 1013,
+        "bbox width": 29,
+        "bbox height": 32
+    },
+    "waldo20.jpg": {
+        "im width": 2048,
+        "im height": 1350,
+        "bbox left": 1708,
+        "bbox top": 600,
+        "bbox width": 41,
+        "bbox height": 46
+    },
+    "waldo22.jpg": {
+        "im width": 2048,
+        "im height": 1432,
+        "bbox left": 1005,
+        "bbox top": 268,
+        "bbox width": 29,
+        "bbox height": 34
+    },
+    "waldo25.jpg": {
+        "im width": 2048,
+        "im height": 1301,
+        "bbox left": 259,
+        "bbox top": 710,
+        "bbox width": 36,
+        "bbox height": 46
+    },
+    "waldo26.jpg": {
+        "im width": 2048,
+        "im height": 1241,
+        "bbox left": 164,
+        "bbox top": 136,
+        "bbox width": 33,
+        "bbox height": 46
+    },
+    "waldo28.jpg": {
+        "im width": 2048,
+        "im height": 1346,
+        "bbox left": 1444,
+        "bbox top": 1158,
+        "bbox width": 37,
+        "bbox height": 41
+    }
+}
